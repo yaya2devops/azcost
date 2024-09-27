@@ -32,9 +32,9 @@ azure-cost show -s <SubscriptionID> -o markdown > cost.md
 azure-cost -s <SubscriptionID> -o json --query "totals.yesterdayCost"
 ```
 
-**Performing cost review using the tool**
+### **Performing cost review using the tool**
 
 <img src="costs-april-azure-ngcsc.png">
 
 
-> [cause](https://www.linkedin.com/feed/update/urn:li:activity:7058067925382918144/)
+> [Thanks for the share! ](https://www.linkedin.com/feed/update/urn:li:activity:7058067925382918144/)
